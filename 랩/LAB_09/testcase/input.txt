@@ -1,0 +1,11 @@
+input 20 1 23 23411 321 123 2334 2 11111 493 2312 34 123 3 966 23 231 4 678 29 334
+pass 1
+print
+pass 2
+print
+pass 3
+print
+pass 4
+print
+pass 5
+print

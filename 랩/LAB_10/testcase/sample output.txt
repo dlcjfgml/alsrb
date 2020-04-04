@@ -1,0 +1,9 @@
+ADD: 4
+ADD: 5
+ADD: 2
+ADD: 1
+SORT: 5 4 2 1
+ADD: 8
+ADD: 3
+ADD: 6
+SORT: 8 6 5 4 3 2 1

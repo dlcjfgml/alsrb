@@ -1,0 +1,12 @@
+insert 1 apple
+insert 2 banana
+insert 3 cat
+insert 4 dog
+find 3
+remove 3
+insert 3 elephant
+find 3
+find 1
+insert 13 frog
+find 13
+print

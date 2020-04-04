@@ -1,0 +1,22 @@
+unionDU 2 3
+unionDU 1 3
+unionDU 4 5
+unionDU 1 5
+unionDU 6 7
+unionDU 6 8
+unionDU 6 9
+unionDU 6 10
+unionDU 6 11
+unionDU 6 12
+depth 0
+depth 5
+depth 8
+differ 2 7
+groupsize 2
+groupsize 7
+unionDU 2 8
+differ 2 7
+depth 5
+unionDU 5 13
+depth 5
+groupsize 7

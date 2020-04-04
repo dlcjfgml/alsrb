@@ -1,0 +1,9 @@
+add 4
+add 5
+add 2
+add 1
+sort
+add 8
+add 3
+add 6
+sort

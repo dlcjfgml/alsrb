@@ -1,0 +1,14 @@
+insert 7 1
+insert 4 2
+insert 12 3
+insert 2 4
+insert 6 5
+insert 9 6
+insert 19 7
+find 2
+preorder
+size
+deletemin
+postorder
+inorder
+size

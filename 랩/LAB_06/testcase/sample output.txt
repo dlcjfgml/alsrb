@@ -1,0 +1,9 @@
+FIND: 19 19
+REMOVE: 19 19
+BSTree does not have the key
+GETMIN: 2 2
+GETMAX: 17 17
+REMOVE: 2 2
+REMOVE: 17 17
+GETMIN: 3 3
+GETMAX: 15 15
